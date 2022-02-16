@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b367a6bd-4bca-d922-e347-35a8db93aadf
 title: Investigative Research Article
 uid: c71664d9-dead-3d50-0887-fcc286de2cb4

@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 8ebf78ca-3e98-5f10-7ca7-bb2c66782d09
 title: Learning Actively through Communication Experiments
 uid: 96936728-b1e0-0dee-640b-c6bef7ccae7d

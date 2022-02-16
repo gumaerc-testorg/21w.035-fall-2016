@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Sessions 10-22
+parent_type: CourseSection
 parent_uid: 627f3974-c25a-a707-76bc-c7de064514c3
 title: Authors Defining Deceptively Simple Terms
 uid: 1907dc5c-12fe-c44a-3c5d-ee6cff4ce331

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b367a6bd-4bca-d922-e347-35a8db93aadf
 title: Strategies for Interviewing Strangers
 uid: bc51b443-2ca2-31e1-2770-d8dab2bc66cc

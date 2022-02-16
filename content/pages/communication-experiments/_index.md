@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Communication Experiments
 uid: 00a18794-dd94-2498-c20c-1c465351aa93
 ---

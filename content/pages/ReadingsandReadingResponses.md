@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Readings & Reading Responses
 uid: 20cfb4e0-1be3-a0c0-1f54-a6ff5863ea7d
 ---

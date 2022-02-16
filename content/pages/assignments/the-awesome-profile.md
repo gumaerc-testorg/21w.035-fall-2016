@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b367a6bd-4bca-d922-e347-35a8db93aadf
 title: The "Awesome" Profile
 uid: 2481034b-49a5-082c-74b0-61b19720ae24

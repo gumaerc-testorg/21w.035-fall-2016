@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Sessions 10-22
+parent_type: CourseSection
 parent_uid: 627f3974-c25a-a707-76bc-c7de064514c3
 title: Formulating a Research Question
 uid: 505f7af0-0d83-2975-de98-0563537063b6

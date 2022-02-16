@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-035-science-writing-and-new-media-communicating-science-to-the-public-fall-2016/3d778a521ee67cf2ebd0f516a1a69076_MIT21W_035F16_DrawingAct.pdf
+file: /media/courses/21w-035-science-writing-and-new-media-communicating-science-to-the-public-fall-2016/3d778a521ee67cf2ebd0f516a1a69076_MIT21W_035F16_DrawingAct.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Sessions 1-9
+parent_type: CourseSection
 resourcetype: Document
 title: MIT21W_035F16_DrawingAct
 uid: 3d778a52-1ee6-7cf2-ebd0-f516a1a69076

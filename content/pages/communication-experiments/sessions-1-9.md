@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Communication Experiments
+parent_type: CourseSection
 parent_uid: 00a18794-dd94-2498-c20c-1c465351aa93
 title: Sessions 1-9
 uid: 19f8002c-d38e-8dd3-e049-6dcabe548308

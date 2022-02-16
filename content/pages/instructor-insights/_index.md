@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 8ebf78ca-3e98-5f10-7ca7-bb2c66782d09
 ---
@@ -51,20 +53,6 @@ None
 ### Offered
 
 Every fall and spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   [![A carpeted classroom with windows on the left, three sliding chalkboards in the front, and tablet armchairs for students.]({{< resource_file 6a9582e8-9e76-256e-0710-1059f5edceae >}})]({{< baseurl >}}/resources/56-180)
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    All class sessions were held in a medium-sized classroom with tablet armchairs, connections for laptops, sliding chalkboards, and an overhead projector. The chairs were arranged in a semi-circle at the start of each class.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

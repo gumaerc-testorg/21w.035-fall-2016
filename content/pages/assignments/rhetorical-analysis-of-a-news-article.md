@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b367a6bd-4bca-d922-e347-35a8db93aadf
 title: Rhetorical Analysis of a News Article
 uid: 3882a089-cb77-4dec-02bd-ae53ac56d184

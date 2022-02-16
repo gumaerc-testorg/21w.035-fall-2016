@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b367a6bd-4bca-d922-e347-35a8db93aadf
 title: An Engaging Translation
 uid: 476b3ed5-8cac-ddb3-9557-3c082b99cbe9

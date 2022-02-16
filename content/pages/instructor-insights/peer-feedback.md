@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 8ebf78ca-3e98-5f10-7ca7-bb2c66782d09
 title: Facilitating Peer-Review Workshops
 uid: 05ed9aaf-8f7f-d6a3-8f50-6a4c34f5231a

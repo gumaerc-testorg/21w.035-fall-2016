@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-035-science-writing-and-new-media-communicating-science-to-the-public-fall-2016/2233bdf9172fbf307cff0d83f815e633_MIT21W_035F16_CitiesYrFeet.pdf
+file: /media/courses/21w-035-science-writing-and-new-media-communicating-science-to-the-public-fall-2016/2233bdf9172fbf307cff0d83f815e633_MIT21W_035F16_CitiesYrFeet.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: MIT21W_035F16_CitiesYrFeet
 uid: 2233bdf9-172f-bf30-7cff-0d83f815e633
