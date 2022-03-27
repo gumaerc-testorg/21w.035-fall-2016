@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b367a6bd-4bca-d922-e347-35a8db93aadf
 resourcetype: Document
 title: MIT21W_035F16_CitiesYrFeet
 uid: 2233bdf9-172f-bf30-7cff-0d83f815e633

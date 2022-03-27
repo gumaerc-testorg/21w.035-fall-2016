@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Sessions 10-22
 parent_type: CourseSection
+parent_uid: 627f3974-c25a-a707-76bc-c7de064514c3
 resourcetype: Image
 title: ColorTiles
 uid: 1caeb3ef-3b80-e911-7ab9-5ca7afadac33

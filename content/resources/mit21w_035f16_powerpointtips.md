@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b367a6bd-4bca-d922-e347-35a8db93aadf
 resourcetype: Document
 title: MIT21W_035F16_PowerPointTips
 uid: 68f91d16-9741-f8b1-42ae-c4ab278718dd

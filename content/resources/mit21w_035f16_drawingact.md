@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Sessions 1-9
 parent_type: CourseSection
+parent_uid: 19f8002c-d38e-8dd3-e049-6dcabe548308
 resourcetype: Document
 title: MIT21W_035F16_DrawingAct
 uid: 3d778a52-1ee6-7cf2-ebd0-f516a1a69076

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings & Reading Responses
 parent_type: CourseSection
+parent_uid: 20cfb4e0-1be3-a0c0-1f54-a6ff5863ea7d
 resourcetype: Document
 title: 21W.035f16_RhetoricalAppeals
 uid: c5ecf2dc-acb0-d057-d33e-82d87dc52607

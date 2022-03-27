@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: In-class Activities
 parent_type: CourseSection
+parent_uid: caf2e285-9468-753e-d768-bb3bb21a73a3
 resourcetype: Image
 title: WhatDoYouReallyMean?
 uid: 3053fee5-e13c-7c93-e946-6cf417b6742b

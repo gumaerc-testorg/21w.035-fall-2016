@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Sessions 10-22
 parent_type: CourseSection
+parent_uid: 627f3974-c25a-a707-76bc-c7de064514c3
 resourcetype: Document
 title: 21W.035f16_SwatchesImageLibguide
 uid: bda35f44-a47b-532a-b254-63dfebb0eb81
