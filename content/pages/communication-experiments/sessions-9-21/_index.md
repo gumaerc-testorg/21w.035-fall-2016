@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the Communication Experiments for Sessions 10-22.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Communication Experiments
@@ -21,7 +22,7 @@ _Defining deceptively simple terms_
     *   NOISE
     *   EXPERIENCE
 2.  Group members write down their individual definitions of the term, and then share their definitions with each other.
-3.  They turn the page over and read the author’s definition of the term (see “[Authors defining deceptively simple terms]({{< baseurl >}}/pages/communication-experiments/sessions-9-21/authors-defining-deceptively-simple-terms)”).
+3.  They turn the page over and read the author’s definition of the term (see “{{% resource_link 1907dc5c-12fe-c44a-3c5d-ee6cff4ce331 "Authors defining deceptively simple terms" %}}”).
 4.  Students discuss whether the specificity and accessibility of the definition ensures that all readers will understand what the term means in the context of the article or book.
 5.  Each group presents their deceptively simple term to the class, the range of initial definitions/understandings within their group, the author’s definition, and why they think the author’s definition is effective or ineffective.
 6.  Students review their own drafts for deceptively simple words and attempt to generate more precise alternatives and/or explanations.
@@ -59,17 +60,17 @@ Session 19
 
 _Turning a topic into a research question_
 
-Students take the initial topics from the “[Formulating a Research Question]({{< baseurl >}}/pages/communication-experiments/sessions-9-21/formulating-a-research-question)” section and generate as many different central questions as they can for each topic.
+Students take the initial topics from the “{{% resource_link 505f7af0-0d83-2975-de98-0563537063b6 "Formulating a Research Question" %}}” section and generate as many different central questions as they can for each topic.
 
 Session 22
 ----------
 
 _Describing color with precise language_
 
-![An image of yellow, green, and blue color tiles.]({{< resource_file 1caeb3ef-3b80-e911-7ab9-5ca7afadac33 >}})
+{{< resource 1caeb3ef-3b80-e911-7ab9-5ca7afadac33 >}}
 
 Working in small groups, students choose a single color tile from the swatches pictured here. Each group must describe the specific color using metaphor, imagery, and precise description, without explicitly comparing their specific color to the other color tiles on the swatch.
 
 Each group reads their descriptions aloud, and their classmates attempt to guess which tile has been described.
 
-[Color Swatches and Image Libguide (PDF)]({{< baseurl >}}/resources/21w-035f16_swatchesimagelibguide)
+{{% resource_link bda35f44-a47b-532a-b254-63dfebb0eb81 "Color Swatches and Image Libguide (PDF)" %}}

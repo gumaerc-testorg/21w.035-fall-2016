@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains details about the peer-review workshop for the
+  Awesome Profile assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

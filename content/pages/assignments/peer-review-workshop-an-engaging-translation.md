@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the details for the peer-review workshop for the
+  Engaging Translation assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

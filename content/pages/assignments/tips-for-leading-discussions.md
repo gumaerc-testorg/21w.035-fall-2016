@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains Tips for Leading Discussions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

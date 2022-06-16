@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of Readings and Reading Response assignments
+  for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Readings & Reading Responses
@@ -94,7 +96,7 @@ Wilson, Jacque and Stephanie Smith. "[3-D Printer Saves Toddler Struggling to Br
 
 Quammen, David. "Deadly Contact: How Animals and Humans Exchanged Disease." _National Geographic Magazine_. October, 2007.
 
-[Rhetorical Appeals and Choices (PDF)]({{< baseurl >}}/resources/21w-035f16_rhetoricalappeals)
+{{% resource_link c5ecf2dc-acb0-d057-d33e-82d87dc52607 "Rhetorical Appeals and Choices (PDF)" %}}
 
 
 {{< tdclose >}}

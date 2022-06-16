@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains details on how the instructor ran peer-review workshops.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

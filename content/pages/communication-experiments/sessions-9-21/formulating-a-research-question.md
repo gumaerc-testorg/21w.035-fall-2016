@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains examples on how to formulate a research question
+  for the Communication Experiment on Session 18.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Sessions 10-22
@@ -204,4 +206,4 @@ What happens in the body before, during, and after one feels they have performed
 
 {{< tableclose >}}
 
-Return to [Communication Experiments, Sessions 10-22]({{< baseurl >}}/pages/communication-experiments/sessions-9-21)
+Return to {{% resource_link 627f3974-c25a-a707-76bc-c7de064514c3 "Communication Experiments, Sessions 10-22" %}}

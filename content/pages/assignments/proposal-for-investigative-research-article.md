@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains details of the proposal for the Investigative Research
+  Article.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

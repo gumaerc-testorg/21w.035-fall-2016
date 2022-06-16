@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains details for the assignment Rhetorical Analysis
+  of a News Article.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
