@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: 'This section contains details on the in-class activities and communication
+  experiments conducted in the course. '
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 8ebf78ca-3e98-5f10-7ca7-bb2c66782d09
 title: Learning Actively through Communication Experiments
 uid: 96936728-b1e0-0dee-640b-c6bef7ccae7d
@@ -12,7 +17,7 @@ _In this section, Jared Berezin shares how communication experiments engage stud
 Valuing Active Learning
 -----------------------
 
-In our end-of-term class discussion, as well as in the formal students evaluations, students consistently highlight the benefit of the [in-class activities]({{< baseurl >}}/pages/in-class-activities) and [communication experiments]({{< baseurl >}}/pages/communication-experiments). As a teacher, these are my favorite moments of the course as well. The experiments are active, fun, unpredictable, low-pressure, yet challenging and engaging. Each experiment has its unique set of requirements, objectives, and constraints, which generates a wide variety of outcomes among the different teams.
+In our end-of-term class discussion, as well as in the formal students evaluations, students consistently highlight the benefit of the {{% resource_link caf2e285-9468-753e-d768-bb3bb21a73a3 "in-class activities" %}} and {{% resource_link 00a18794-dd94-2498-c20c-1c465351aa93 "communication experiments" %}}. As a teacher, these are my favorite moments of the course as well. The experiments are active, fun, unpredictable, low-pressure, yet challenging and engaging. Each experiment has its unique set of requirements, objectives, and constraints, which generates a wide variety of outcomes among the different teams.
 
 Emphasizing Process
 -------------------

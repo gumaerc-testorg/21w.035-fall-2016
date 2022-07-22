@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains details for the Engaging Translation assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b367a6bd-4bca-d922-e347-35a8db93aadf
 title: An Engaging Translation
 uid: 476b3ed5-8cac-ddb3-9557-3c082b99cbe9
@@ -45,5 +50,5 @@ Upload the document on the class website in the following format:
 **Due Dates:**
 
 1.  Upload your draft before class on Session 10.
-2.  [Peer-review workshop]({{< baseurl >}}/pages/assignments/peer-review-workshop-an-engaging-translation) will be held on Session 11.
+2.  {{% resource_link ad74842c-137d-f806-2b8f-b502440ec687 "Peer-review workshop" %}} will be held on Session 11.
 3.  Upload your revised text before class on Session 13.

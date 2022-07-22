@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: 'This section contains a list of quotes that the students used for the
+  Communication Experiment on Session 9. '
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Sessions 10-22
+parent_type: CourseSection
 parent_uid: 627f3974-c25a-a707-76bc-c7de064514c3
 title: Authors Defining Deceptively Simple Terms
 uid: 1907dc5c-12fe-c44a-3c5d-ee6cff4ce331
@@ -26,4 +31,4 @@ Below are the quotes used in the Communication Experiment for Session 9. This co
 
 —David Smokler, _Interactive Learning Experiences_. 2005. Corwin Press. 2-3.
 
-Return to [Communication Experiments, Sessions 10-22]({{< baseurl >}}/pages/communication-experiments/sessions-9-21)
+Return to {{% resource_link 627f3974-c25a-a707-76bc-c7de064514c3 "Communication Experiments, Sessions 10-22" %}}

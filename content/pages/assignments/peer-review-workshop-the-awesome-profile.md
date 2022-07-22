@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section contains details about the peer-review workshop for the
+  Awesome Profile assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b367a6bd-4bca-d922-e347-35a8db93aadf
 title: 'Peer-Review Workshop: The "Awesome" Profile'
 uid: a455d86c-76d2-05c0-c069-7a2642561476

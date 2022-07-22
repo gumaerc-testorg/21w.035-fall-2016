@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This section contains the Communication Experiments for Sessions 1-9.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Communication Experiments
+parent_type: CourseSection
 parent_uid: 00a18794-dd94-2498-c20c-1c465351aa93
 title: Sessions 1-9
 uid: 19f8002c-d38e-8dd3-e049-6dcabe548308
@@ -13,7 +17,7 @@ Session 2
 
 _Draw what you read_
 
-1.  Each group of students is presented with a unique written description (see “[Description examples for in-class drawing activity (PDF)]({{< baseurl >}}/resources/mit21w_035f16_drawingact)”).
+1.  Each group of students is presented with a unique written description (see “{{% resource_link 3d778a52-1ee6-7cf2-ebd0-f516a1a69076 "Description examples for in-class drawing activity (PDF)" %}}”).
 2.  Each group reads their assigned text aloud, and working together, draws the object/scene(s) using the details available from the text.
 3.  Each group presents their artwork to the class and shares the following reflections:
     1.  What specific details helped your team?

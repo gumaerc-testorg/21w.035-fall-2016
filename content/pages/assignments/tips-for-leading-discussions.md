@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains Tips for Leading Discussions.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b367a6bd-4bca-d922-e347-35a8db93aadf
 title: Tips for Leading Discussions
 uid: 1c275b7e-c353-5c3b-4dc8-a7c74c4fe472
