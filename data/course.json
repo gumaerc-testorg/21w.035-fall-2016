@@ -44,7 +44,9 @@
   },
   "course_title": "Science Writing and New Media: Communicating Science to the Public",
   "course_description": "This course provides an introduction to writing about science (including medicine, technology, and engineering) for general readers. With a strong emphasis in background research, this course will help students build a foundation for strong science writing. Students will read works by accomplished science writers. Each assignment will focus on a different popular form, such as news articles, interviews, essays, and short features.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.035",
   "course_image_thumbnail": {
@@ -52,8 +54,10 @@
     "website": "21w-035-science-writing-and-new-media-communicating-science-to-the-public-fall-2016"
   },
   "learning_resource_types": [
-    "Written Assignments"
+    "Written Assignments",
+    "Instructor Insights"
   ],
-  "site_uid": "31c26436-2087-497b-a3e4-d99b4dc69ebb",
+  "site_uid": "2ae6043e-baa8-4b8a-9cc7-27783dc974cf",
+  "short_id": "21w.035-fall-2016",
   "title": "Course Metadata"
 }
