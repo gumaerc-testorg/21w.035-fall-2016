@@ -1,6 +1,7 @@
 ---
 content_type: page
 description: This section contains a list of in-class activities in the course.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: In-class Activities
@@ -11,9 +12,9 @@ Note: There were no In-class Activities for Sessions 1–4, 7–8, 10–11, 13�
 ## Session 5: Identifying rhetorical appeals
 
 1. Each group shares the purpose and target audience of the articles, using evidence to support their claims: word choice, definitions, naming conventions, organization, and negative space (i.e. information not included in the article).
-2. Each group is assigned one text—“3-D Printer Saves Toddler Struggling to Breathe,” “Deadly Contact” (written text _only_), and “Deadly Contact” (images and captions _only_)—and identifies examples of logos, then shares their findings with the class.
-3. Each group is assigned a different text and identifies examples of _pathos_.
-4. Each group is assigned a different text and identifies examples of _ethos_.
+2. Each group is assigned one text—“3-D Printer Saves Toddler Struggling to Breathe,” “Deadly Contact” (written text *only*), and “Deadly Contact” (images and captions *only*)—and identifies examples of logos, then shares their findings with the class.
+3. Each group is assigned a different text and identifies examples of *pathos*.
+4. Each group is assigned a different text and identifies examples of *ethos*.
 
 ## Session 6: Constraints and opportunities in genre
 
@@ -25,28 +26,28 @@ Note: There were no In-class Activities for Sessions 1–4, 7–8, 10–11, 13�
 
 ## Session 9: Transparent Stories with Citations
 
-1. {{% resource_link 8aaf45f3-54c2-561a-21d9-19b1a1b9d2ba "Transparent Stories with Citations (PDF)" %}}
+1. {{% resource_link "8aaf45f3-54c2-561a-21d9-19b1a1b9d2ba" "Transparent Stories with Citations (PDF)" %}}
 
 ## Session 12: Translating a journal article for the public
 
-_In-class activity 1: Naming conventions_
+*In-class activity 1: Naming conventions*
 
-1. Students are shown the technical language from the peer-reviewed article (["Music in Everymind: Commonality of Involuntary Musical Imagery" (PDF)](https://l.kryptoniitti.com/lassial/files/publications/080904-Music_in_everymind_pdf.pdf)) that informs the content of the lay-friendly article, “Why Do Songs Get Stuck In Our Heads.”
+1. Students are shown the technical language from the peer-reviewed article (["Music in Everymind: Commonality of Involuntary Musical Imagery](https://www.semanticscholar.org/paper/Music-in-Everymind%3A-Commonality-of-Involuntary-Liikkanen/2f635694f176e422b389a56bb126e22a8c0b3a89)") that informs the content of the lay-friendly article, “Why Do Songs Get Stuck In Our Heads.”
 2. We discuss the implications of the choice to use the term “earworm” as the dominant metaphor through “Why Do Songs Get Stuck In Our Heads.”
 3. Students read sections of “Why Do Songs Get Stuck In Our Heads” to detect Gopen and Swan’s sentence structure, in which the known subject is introduced before the unknown/new information/subject.
 
-_In-class activity 2: Topic sentences_
+*In-class activity 2: Topic sentences*
 
 1. The class reads aloud every topic sentence from the article, “Why Do Songs Get Stuck In Our Heads.”
 2. Students identify the claims made in each topic sentence, and then scan the corresponding paragraphs to determine whether the content of each paragraph directly relates to the topic sentence, or whether the paragraph content differs from topic sentence.
 3. Students then scan the topic sentences of their draft articles.
 4. Each student reads one of their topic sentences aloud to a classmate, and asks them to share what they expect the rest of the paragraph to discuss, in order to determine whether there is alignment between their topic sentences and paragraphs.
 
-_In-class activity 3: Making imprecise subjective language more precise_
+*In-class activity 3: Making imprecise subjective language more precise*
 
 Students circle instances of vague nouns (e.g. "it" and "that") and subjective adjectives (e.g. "good" and "bad") in their own drafts, and then replace these words with more precise language.
 
-{{< resource 3053fee5-e13c-7c93-e946-6cf417b6742b >}}
+{{< resource uuid="3053fee5-e13c-7c93-e946-6cf417b6742b" >}}
 
 ## Session 22
 

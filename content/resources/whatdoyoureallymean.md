@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/21w-035-science-writing-and-new-media-communicating-science-to-the-public-fall-2016/3053fee5e13c7c93e9466cf417b6742b_WhatDoYouReallyMean.jpg
+file_size: 14006
 file_type: image/jpeg
 image_metadata:
   caption: ''
