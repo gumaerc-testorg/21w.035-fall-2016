@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21w-035-science-writing-and-new-media-communicating-science-to-the-public-fall-2016/bda35f44a47b532ab25463dfebb0eb81_21W.035f16_SwatchesImageLibguide.pdf
+file_size: 605506
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
