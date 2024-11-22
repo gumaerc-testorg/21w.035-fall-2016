@@ -88,7 +88,7 @@ García-Ruiz, Juan Manuel, Roberto Villasuso, et al. "[Formation of Natural Gyps
 
 Hoffmann, Roald. "[The Metaphor, Unchained](https://www.americanscientist.org/article/the-metaphor-unchained)." *American Scientist* 94, no. 5 (2006): 406-407.
 
-Rolnick, Davie. "[Cities at Your Feet: A Closer Look at the World of Ants](http://tech.mit.edu/V133/N49/ants.html)." *The Tech* Vol. 133, Issue 49. October 29, 2013.
+Rolnick, Davie. "[Cities at Your Feet: A Closer Look at the World of Ants](https://thetech.com/issues/133/49)." *The Tech* Vol. 133, Issue 49. October 29, 2013.
 
 NPR Staff. "[Net Neutrality, Shall I Compare Thee to a Highway? A Showerhead?](http://www.npr.org/sections/alltechconsidered/2014/07/21/333737282/net-neutrality-shall-i-compare-thee-to-a-highway-a-showerhead)" *All Things Considered/NPR*. July 21, 2014.
 
