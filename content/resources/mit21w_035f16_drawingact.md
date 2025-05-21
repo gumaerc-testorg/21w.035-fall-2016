@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21w-035-science-writing-and-new-media-communicating-science-to-the-public-fall-2016/3d778a521ee67cf2ebd0f516a1a69076_MIT21W_035F16_DrawingAct.pdf
+file: /courses/21w-035-science-writing-and-new-media-communicating-science-to-the-public-fall-2016/3d778a521ee67cf2ebd0f516a1a69076_MIT21W_035F16_DrawingAct.pdf
 file_size: 218800
 file_type: application/pdf
 learning_resource_types: []
