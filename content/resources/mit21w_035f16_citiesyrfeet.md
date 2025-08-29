@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21w-035-science-writing-and-new-media-communicating-science-to-the-public-fall-2016/2233bdf9172fbf307cff0d83f815e633_MIT21W_035F16_CitiesYrFeet.pdf
+file: /ol-ocw-studio-app/courses/21w-035-science-writing-and-new-media-communicating-science-to-the-public-fall-2016/2233bdf9172fbf307cff0d83f815e633_MIT21W_035F16_CitiesYrFeet.pdf
 file_size: 144348
 file_type: application/pdf
 learning_resource_types:

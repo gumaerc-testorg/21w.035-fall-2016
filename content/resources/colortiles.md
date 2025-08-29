@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21w-035-science-writing-and-new-media-communicating-science-to-the-public-fall-2016/1caeb3ef3b80e9117ab95ca7afadac33_ColorTiles.jpg
+file: /ol-ocw-studio-app/courses/21w-035-science-writing-and-new-media-communicating-science-to-the-public-fall-2016/1caeb3ef3b80e9117ab95ca7afadac33_ColorTiles.jpg
 file_size: 7048
 file_type: image/jpeg
 image_metadata:
