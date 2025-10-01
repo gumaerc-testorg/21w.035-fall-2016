@@ -51,7 +51,7 @@ None
 5
 {{< tdclose >}}{{< tdopen >}}
 
-Wilson, Jacque and Stephanie Smith. "[3-D Printer Saves Toddler Struggling to Breathe](http://www.cnn.com/2014/03/18/health/3d-printer-michigan-baby/)." *CNN*. March 28, 2014.
+Wilson, Jacque and Stephanie Smith. "{{% resource_link "0cfaeb9c-0c4a-4692-90d3-6d584589ebb5" "3-D Printer Saves Toddler Struggling to Breathe" %}}." *CNN*. March 28, 2014.
 
 Quammen, David. "Deadly Contact: How Animals and Humans Exchanged Disease." *National Geographic Magazine*. October, 2007.
 
@@ -69,11 +69,11 @@ Quammen, David. "Deadly Contact: How Animals and Humans Exchanged Disease." *Nat
 6
 {{< tdclose >}}{{< tdopen >}}
 
-Stewart, Iain. "[A Rare Glimpse of the Cave of Crystals](http://news.bbc.co.uk/2/hi/8466493.stm)." *BBC News*. January 19, 2010.
+Stewart, Iain. "{{% resource_link "bdf34caf-f1c4-42ae-bd1c-bd209de3bdd8" "A Rare Glimpse of the Cave of Crystals" %}}." *BBC News*. January 19, 2010.
 
-Shea, Neil and Carsten Peter. "[Crystal Palace: Mexico's Cave of Crystals." (PDF)](http://cbsd.org/cms/lib010/PA01916442/Centricity/Domain/1595/Crystal%20Palace%20Article%20NatGeo%202008.pdf) *National Geographic Magazine*. November, 2008.
+Shea, Neil and Carsten Peter. "{{% resource_link "8b9e558e-f8b0-4242-8c6d-335af5560eac" "Crystal Palace: Mexico's Cave of Crystals.\" (PDF)" %}} *National Geographic Magazine*. November, 2008.
 
-García-Ruiz, Juan Manuel, Roberto Villasuso, et al. "[Formation of Natural Gypsum Megacrystals in Naica, Mexico." (PDF)](https://www.geosociety.org/datarepository/2007/2007080.pdf) *Geology* 35, no. 4 (2007): 327-330.
+García-Ruiz, Juan Manuel, Roberto Villasuso, et al. "{{% resource_link "1e307e85-0802-4250-b286-2ea0693270e4" "Formation of Natural Gypsum Megacrystals in Naica, Mexico.\" (PDF)" %}} *Geology* 35, no. 4 (2007): 327-330.
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -86,11 +86,11 @@ García-Ruiz, Juan Manuel, Roberto Villasuso, et al. "[Formation of Natural Gyps
 7
 {{< tdclose >}}{{< tdopen >}}
 
-Hoffmann, Roald. "[The Metaphor, Unchained](https://www.americanscientist.org/article/the-metaphor-unchained)." *American Scientist* 94, no. 5 (2006): 406-407.
+Hoffmann, Roald. "{{% resource_link "5a7395fd-53e3-41eb-b5be-91ab7931de83" "The Metaphor, Unchained" %}}." *American Scientist* 94, no. 5 (2006): 406-407.
 
-Rolnick, Davie. "[Cities at Your Feet: A Closer Look at the World of Ants](https://thetech.com/issues/133/49)." *The Tech* Vol. 133, Issue 49. October 29, 2013.
+Rolnick, Davie. "{{% resource_link "c7cd4fb8-4c51-4c47-b0f0-3bdbcd52d337" "Cities at Your Feet: A Closer Look at the World of Ants" %}}." *The Tech* Vol. 133, Issue 49. October 29, 2013.
 
-NPR Staff. "[Net Neutrality, Shall I Compare Thee to a Highway? A Showerhead?](http://www.npr.org/sections/alltechconsidered/2014/07/21/333737282/net-neutrality-shall-i-compare-thee-to-a-highway-a-showerhead)" *All Things Considered/NPR*. July 21, 2014.
+NPR Staff. "{{% resource_link "522c6ea6-c594-495d-84b5-06a6570c0d1d" "Net Neutrality, Shall I Compare Thee to a Highway? A Showerhead?" %}}" *All Things Considered/NPR*. July 21, 2014.
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -108,9 +108,9 @@ None
 9
 {{< tdclose >}}{{< tdopen >}}
 
-Angier, Natalie. "[Nature's Drone, Pretty and Deadly](http://www.nytimes.com/2013/04/02/science/dragonflies-natures-deadly-drone-but-prettier.html?hp&_r=1&&mtrref=undefined&mtrref=www.nytimes.com&gwh=EF349A8C775151C51C85BFE749152482&gwt=pay)." *The New York Times*. April 2, 2013.
+Angier, Natalie. "{{% resource_link "47d2d935-3774-446a-b7a5-4fbb3a334166" "Nature's Drone, Pretty and Deadly" %}}." *The New York Times*. April 2, 2013.
 
-Paloma T. Gonzalez-Bellido, Hanchuan Peng, Jinzhu Yang, et al. "[Eight Pairs of Descending Visual Neurons in the Dragonfly Give Wing Motor Centers Accurate Population Vector of Prey Direction." (PDF)](http://www.pnas.org/content/110/2/696.full.pdf) *Proceedings of the National Academy of Sciences* 110: 696-701.
+Paloma T. Gonzalez-Bellido, Hanchuan Peng, Jinzhu Yang, et al. "{{% resource_link "b8e19198-68d0-4fe4-a52d-76cb428e4d2a" "Eight Pairs of Descending Visual Neurons in the Dragonfly Give Wing Motor Centers Accurate Population Vector of Prey Direction.\" (PDF)" %}} *Proceedings of the National Academy of Sciences* 110: 696-701.
 
 (Note: MIT students used their skills learned in the librarian's workshop to locate and download this peer-reviewed article from a database via the MIT Libraries website.)
 
@@ -136,7 +136,7 @@ None
 
 Kelly, Kristine. "Translating Science: From Academia to Mass Media to the Public." In *Taking Science to the People: A Communication Primer for Scientists and Engineers*." University of Nebraska Press, 2010. ISBN: 9780803220522.
 
-Tu, Chau. "[Why Do Songs Get Stuck in Our Heads?](http://sciencefriday.com/articles/why-do-songs-get-stuck-in-our-heads/)" *Science Friday*. May 28, 2014.
+Tu, Chau. "{{% resource_link "11b10953-5a35-4fc9-89d5-11b1e88d491e" "Why Do Songs Get Stuck in Our Heads?" %}}" *Science Friday*. May 28, 2014.
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -151,7 +151,7 @@ None
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
 {{< tdclose >}}{{< tdopen >}}
-Freeman, David. "[Why Revive 'Cosmos?' Neil DeGrasse Tyson Says Just About Everything We Know Has Changed](http://www.huffingtonpost.com/2014/03/04/neil-degrasse-tyson-cosmos-god-alien-life-multiverses-interview_n_4790408.html)." *The Huffington Post*. March 4, 2014.
+Freeman, David. "{{% resource_link "7fb938b8-dd98-4589-9cbf-1955751b90c7" "Why Revive 'Cosmos?' Neil DeGrasse Tyson Says Just About Everything We Know Has Changed" %}}." *The Huffington Post*. March 4, 2014.
 {{< tdclose >}}{{< tdopen >}}
 
 - What was the purpose of the interview?
@@ -164,15 +164,15 @@ Freeman, David. "[Why Revive 'Cosmos?' Neil DeGrasse Tyson Says Just About Every
 
 *Watch two online MIT Profile videos:*
 
-- [Darcy Wanger's Personal Story](http://techtv.mit.edu/videos/24169-darcy-wanger-s-personal-story)
-- [Samuel Thompson's Personal Story](http://chemvideos.mit.edu/video/designing-probes-to-image-proteins-inside-living-cells-2/)
-- [Kateryna Kozyrytska's Personal Story](http://techtv.mit.edu/videos/24159-kateryna-kozyrytska-s-personal-story)
-- [Nozomi Ando's Personal Story](http://techtv.mit.edu/collections/chemvideos/videos/24147-nozomi-ando-s-personal-story)
-- [Sarah Bowman's Personal Story](http://techtv.mit.edu/videos/24150-sarah-bowman-s-personal-story)
+- {{% resource_link "65bc5109-795f-4ea3-91d4-6f67bc019a3f" "Darcy Wanger's Personal Story" %}}
+- {{% resource_link "74ee4cb0-6c99-4859-99a1-c65f37ffdb3b" "Samuel Thompson's Personal Story" %}}
+- {{% resource_link "0743e7db-1ce4-4f32-ae21-95341eb61797" "Kateryna Kozyrytska's Personal Story" %}}
+- {{% resource_link "33986e5e-94c6-46e2-bb5e-aba3b3683720" "Nozomi Ando's Personal Story" %}}
+- {{% resource_link "5070aa45-fbd5-4564-b1a1-cb40a7e4b7e4" "Sarah Bowman's Personal Story" %}}
 
 *Watch two Science360 Profile videos*
 
-Schembri, Frankie. "[Brave New Worlds](http://cmsw.mit.edu/angles/2016/wp/brave-new-worlds/)." *Angles*. 2016.
+Schembri, Frankie. "{{% resource_link "78fda5c8-4b3c-443c-a92d-d91cbeed8644" "Brave New Worlds" %}}." *Angles*. 2016.
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -182,7 +182,7 @@ Schembri, Frankie. "[Brave New Worlds](http://cmsw.mit.edu/angles/2016/wp/brave-
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
-Angier, Natalie. "[Insights From the Youngest Minds](http://www.nytimes.com/2012/05/01/science/insights-in-human-knowledge-from-the-minds-of-babes.html)." *The New York Times*. April 30, 2012.
+Angier, Natalie. "{{% resource_link "a892cf1b-662a-4dcc-ada2-ca313fc91f4e" "Insights From the Youngest Minds" %}}." *The New York Times*. April 30, 2012.
 {{< tdclose >}}{{< tdopen >}}
 
 - What is the impact of the Angier’s initial descriptions of Spelke?
@@ -211,9 +211,9 @@ None
 22
 {{< tdclose >}}{{< tdopen >}}
 
-Angier, Natalie. "[True Blue Stands Out in an Earthy Crowd](http://www.nytimes.com/2012/10/23/science/with-new-findings-scientists-are-captivated-by-the-color-blue.html)." *The New York Times*. October 23, 2012.
+Angier, Natalie. "{{% resource_link "fe13270c-8d00-406a-a5b3-98c0380cc65a" "True Blue Stands Out in an Earthy Crowd" %}}." *The New York Times*. October 23, 2012.
 
-Biochem Belle. "[In the Shadows of Greatness](https://biochembelle.com/2011/01/22/shadows-of-greatness/)." *Biochembelle.com*. January 22, 2011.
+Biochem Belle. "{{% resource_link "9b3509ec-f96a-4176-ba13-b471c8bb7e1f" "In the Shadows of Greatness" %}}." *Biochembelle.com*. January 22, 2011.
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -226,9 +226,9 @@ Biochem Belle. "[In the Shadows of Greatness](https://biochembelle.com/2011/01/2
 23
 {{< tdclose >}}{{< tdopen >}}
 
-The Guardian Staff. "[Penny Bailey on Science Writing: 'You Need to Know How to Tell a Good Story'](https://www.theguardian.com/science/2013/mar/27/penny-bailey-science-writing-wellcome)." *The Guardian*. March 27, 2013.
+The Guardian Staff. "{{% resource_link "ba650458-7245-4212-874b-a69c2dec8dfc" "Penny Bailey on Science Writing: 'You Need to Know How to Tell a Good Story'" %}}." *The Guardian*. March 27, 2013.
 
-Goldman, Jason G. "[Do Animals Like Drugs and Alcohol?](http://www.bbc.com/future/story/20140528-do-animals-take-drugs)" *BBC Future*. May 28, 2014.
+Goldman, Jason G. "{{% resource_link "01de3767-9a43-4ae9-9646-114affa13d5d" "Do Animals Like Drugs and Alcohol?" %}}" *BBC Future*. May 28, 2014.
 
 {{< tdclose >}}{{< tdopen >}}
 
