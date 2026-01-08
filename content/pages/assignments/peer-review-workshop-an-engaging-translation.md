@@ -14,7 +14,7 @@ uid: ad74842c-137d-f806-2b8f-b502440ec687
 
 1.  **What is "peer review"?**
 
-Check out this brief video, {{% resource_link "e80889f8-0c75-4d10-a4e1-694e2dc68971" "_No One Writes Alone_" %}}, produced at MIT.
+Check out this brief video, [_No One Writes Alone_](https://www.youtube.com/watch?v=tY8CX0J3ILc), produced at MIT.
 
 2.  **How do I prepare for the peer-review workshop?**
 
