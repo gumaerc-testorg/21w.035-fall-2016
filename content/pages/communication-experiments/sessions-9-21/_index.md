@@ -53,7 +53,7 @@ _Translating units_
 Session 17
 ----------
 
-_{{% resource_link "1213dbe4-bc0a-43a9-ae77-9eb471ef0f48" "Learning from a typewriter?" %}}_
+_[Learning from a typewriter?](https://www.insidehighered.com/views/2016/03/18/teaching-students-new-ways-thinking-through-typewriter-essay)_
 
 Session 19
 ----------

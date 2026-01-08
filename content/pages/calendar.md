@@ -121,7 +121,7 @@ Creative Explanation as a Rhetorical Move
 Translating Scientific Information Across Rhetorical Situations
 {{< tdclose >}}
 {{< tdopen >}}
-Library Session in {{% resource_link "9c9c6c56-a9f1-4180-8e10-550ed6de9837" "Hayden Library" %}}
+Library Session in [Hayden Library](https://libraries.mit.edu/hayden/)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -290,7 +290,7 @@ Writing Due: Proposal for Investigative Research Article
 21
 {{< tdclose >}}
 {{< tdopen >}}
-In-class Research in {{% resource_link "c8a81b10-84ff-4cc0-aaa7-644734edec8f" "Digital Instruction Resource Center (DIRC)" %}}
+In-class Research in [Digital Instruction Resource Center (DIRC)](https://libraries.mit.edu/dirc/)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -360,7 +360,7 @@ Presentations of Research Projects continued
 26
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "823c1029-bc0b-4ef8-9a4f-445f073ad93d" "MIT Museum" %}} Visit
+[MIT Museum](https://mitmuseum.mit.edu/) Visit
 {{< tdclose >}}
 {{< tdopen >}}
 Writing Due: Revision of Investigative Research Article

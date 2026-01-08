@@ -146,7 +146,7 @@ Session 26
 Resources
 ---------
 
-{{% resource_link "c79cf040-2f17-4214-96f8-17f0e22fa4f8" "Library Guide" %}}
+[Library Guide](http://libguides.mit.edu/sciencewriting01)
 
 {{% resource_link 68f91d16-9741-f8b1-42ae-c4ab278718dd "PowerPoint Presentation Tips (PDF)" %}}
 
