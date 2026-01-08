@@ -32,7 +32,7 @@ Note: There were no In-class Activities for Sessions 1–4, 7–8, 10–11, 13�
 
 *In-class activity 1: Naming conventions*
 
-1. Students are shown the technical language from the peer-reviewed article ({{% resource_link "88a69d7f-a279-4477-94be-7cedddbc8124" "\"Music in Everymind: Commonality of Involuntary Musical Imagery" %}}") that informs the content of the lay-friendly article, “Why Do Songs Get Stuck In Our Heads.”
+1. Students are shown the technical language from the peer-reviewed article (["Music in Everymind: Commonality of Involuntary Musical Imagery](https://www.semanticscholar.org/paper/Music-in-Everymind%3A-Commonality-of-Involuntary-Liikkanen/2f635694f176e422b389a56bb126e22a8c0b3a89)") that informs the content of the lay-friendly article, “Why Do Songs Get Stuck In Our Heads.”
 2. We discuss the implications of the choice to use the term “earworm” as the dominant metaphor through “Why Do Songs Get Stuck In Our Heads.”
 3. Students read sections of “Why Do Songs Get Stuck In Our Heads” to detect Gopen and Swan’s sentence structure, in which the known subject is introduced before the unknown/new information/subject.
 

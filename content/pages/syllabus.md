@@ -26,7 +26,7 @@ Throughout the course, we will discover how the successful communication of scie
 Grading
 -------
 
-MIT's {{% resource_link "88283299-fbc3-475b-b983-3a267b16315a" "Undergraduate Communication Requirement" %}} specifies that you must write at least 5,000 words over the course of the semester. A word count will be provided along with the criteria for evaluation for each assignment. As you complete each article, check the word count to make sure that you are meeting the requirements. The following items form the basis of your overall grade:
+MIT's [Undergraduate Communication Requirement](http://web.mit.edu/commreq/cih.html) specifies that you must write at least 5,000 words over the course of the semester. A word count will be provided along with the criteria for evaluation for each assignment. As you complete each article, check the word count to make sure that you are meeting the requirements. The following items form the basis of your overall grade:
 
 {{< tableopen >}}
 {{< theadopen >}}
